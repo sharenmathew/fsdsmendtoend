@@ -36,7 +36,6 @@ class ModelEvaluation:
             print(tracking_url_type_store)
 
 
-
             with mlflow.start_run():
 
                 predicted_qualities = model.predict(X_test)
