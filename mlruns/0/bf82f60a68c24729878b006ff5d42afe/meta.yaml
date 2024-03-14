@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/fsdsmendtoend/mlruns/0/bf82f60a68c24729878b006ff5d42afe/artifacts
+end_time: 1710418292174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf82f60a68c24729878b006ff5d42afe
+run_name: languid-shrew-577
+run_uuid: bf82f60a68c24729878b006ff5d42afe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710418280828
+status: 3
+tags: []
+user_id: Tijo George

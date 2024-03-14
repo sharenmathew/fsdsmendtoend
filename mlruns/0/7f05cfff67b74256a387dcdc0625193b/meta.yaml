@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/fsdsmendtoend/mlruns/0/7f05cfff67b74256a387dcdc0625193b/artifacts
+end_time: 1710420142377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f05cfff67b74256a387dcdc0625193b
+run_name: illustrious-elk-611
+run_uuid: 7f05cfff67b74256a387dcdc0625193b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710420135335
+status: 3
+tags: []
+user_id: Tijo George
